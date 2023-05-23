@@ -49,7 +49,7 @@ Once the code is compiled, you can deploy the contract by clicking on the “Dep
 Once the contract is deployed, you can interact with it by calling its functions. Click on the “token” contract in the left-hand sidebar to see its available functions.
 
 #Authors
-Metacrafter Chris
+Metacrafter Aadil
 @PhantomZNeuroX
 
 
